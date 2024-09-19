@@ -1,4 +1,4 @@
-let iconmenu = document.querySelector(".icons .fa-bars");
+ let iconmenu = document.querySelector(".icons .fa-bars");
 let iconClose = document.querySelector(".icons .fa-x");
 let ulmob = document.querySelector(".ul-for-mob");
 
